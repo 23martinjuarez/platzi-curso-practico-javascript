@@ -1,1 +1,1 @@
-# platzi-cirso-practico-javascript
+# platzi-curso-practico-javascript
